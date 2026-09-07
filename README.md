@@ -14,7 +14,7 @@ Manuscript in preparation.
 1. `dlbcl-notebook2.ipynb` — data acquisition and processing (GEO download, probe→gene mapping, clinical parsing)
 2. `dlbcl-validation-clean.ipynb` — main analysis: frozen models, external validation, sensitivity analyses
 3. `dlbcl-revision-A1-A3.ipynb` — CV-tuned model specification, reverse-direction experiment, multiple imputation
-4. `dlbcl-jcocci-additions.ipynb` — signature-length sweep, cautionary path-end analysis, Lenz reproduction figure, Alizadeh 2011 two-gene model (LMO2/TNFRSF9), equivalence framing, reverse-genes + IPI
+4. `dlbcl-jcocci-additions.ipynb` — signature-length sweep, cautionary path-end analysis, Lenz reproduction figure, Alizadeh 2011 two-gene model (LMO2/TNFRSF9), equivalence framing, reverse-genes + IPI, and the C0–C5 pre-submission reruns (frozen-preprocessing sensitivity, MI with Nelson-Aalen, reverse-KM follow-up, final figures, `requirements.txt`)
 
 All notebooks run on Kaggle (free tier, CPU) from public data; end-to-end reproduction ≈ 30–40 min.
 

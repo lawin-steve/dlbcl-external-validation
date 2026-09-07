@@ -5,8 +5,8 @@ Derived tables and figures. Provenance:
 | File | Produced by | Note |
 |---|---|---|
 | `fig1_flow.png` | `dlbcl-validation-clean.ipynb` | cohort flow diagram |
-| `fig_forest.png` | `dlbcl-validation-clean.ipynb` | ΔC vs IPI forest plot |
-| `fig_km_tertiles.png` | `dlbcl-validation-clean.ipynb` | KM by risk tertile |
+| `fig_forest_final.png` | `dlbcl-jcocci-additions.ipynb` | C5: observed ΔC vs IPI, all final models, both cohorts |
+| `fig_km_tertiles_final.png` | `dlbcl-jcocci-additions.ipynb` | C5: KM by COO+IPI risk tertile with number-at-risk table |
 | `fig_missing_ipi.png` | `dlbcl-validation-clean.ipynb` | included vs IPI-missing patients |
 | `fig_signature_length_sweep.png` | `dlbcl-jcocci-additions.ipynb` | B1 |
 | `fig_lenz_reproduction.png` | `dlbcl-jcocci-additions.ipynb` | B3 |
