@@ -17,5 +17,5 @@ Derived tables and figures. Provenance:
 | `gse87371_scores.csv` | `dlbcl-validation-clean.ipynb` | per-patient model scores, GSE87371 non-PMBL |
 
 All files are the outputs saved by the Kaggle kernel runs of the notebooks above and
-were downloaded via the Kaggle API. The A1–A3 revision notebook writes no files; its
-results are the printed cell outputs committed in `dlbcl-revision-A1-A3.ipynb`.
+were downloaded via the Kaggle API. The A1–A3 revision notebook and the B5/B6 cells of the additions notebook write no
+files; their results are the printed cell outputs committed in the notebooks.
